@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geometrical Shape</string>
+    <string name="geometrical_shape">Geometrical Shape</string>
+    <string name="area">Area</string>
+    <string name="perimeter">Perimeter</string>
+    <string name="please_enter_x_value">please enter X value</string>
+    <string name="new_process">NEW PROCESS</string>
+    <string name="result">RESULT</string>
+    <string name="please_enter_z_value">please_enter_Z_value</string>
+    <string name="please_enter_y_value">please_enter_Y_value</string>
+</resources>
